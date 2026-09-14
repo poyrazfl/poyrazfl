@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I somehow ended up being a computer science guy :)
 -->
-<img width="665" height="1182" alt="7E950AE1-4A3E-4671-99C5-4214BC0158FF_1_105_c" src="https://github.com/user-attachments/assets/84c0a03a-f71b-44ab-9980-617dbda9b99e" />
